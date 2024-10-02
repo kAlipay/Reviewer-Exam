@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\datastructurelastpartmerging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\datastructurelastpartmerging.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\datastructurelastpartmerging.AssemblyInfo.cs
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\datastructurelastpartmerging.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\bin\Debug\net8.0\datastructurelastpartmerging.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\bin\Debug\net8.0\datastructurelastpartmerging.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\bin\Debug\net8.0\datastructurelastpartmerging.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\bin\Debug\net8.0\datastructurelastpartmerging.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\bin\Debug\net8.0\datastructurelastpartmerging.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\datastructurelastpartmerging.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\refint\datastructurelastpartmerging.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\datastructurelastpartmerging.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\datastructurelastpartmerging.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartmerging\datastructurelastpartmerging\obj\Debug\net8.0\ref\datastructurelastpartmerging.dll

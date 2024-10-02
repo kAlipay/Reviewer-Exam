@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\bin\Debug\net8.0\datastructurelastpartsorting.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\bin\Debug\net8.0\datastructurelastpartsorting.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\bin\Debug\net8.0\datastructurelastpartsorting.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\bin\Debug\net8.0\datastructurelastpartsorting.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\bin\Debug\net8.0\datastructurelastpartsorting.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\datastructurelastpartsorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\datastructurelastpartsorting.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\datastructurelastpartsorting.AssemblyInfo.cs
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\datastructurelastpartsorting.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\datastructurelastpartsorting.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\refint\datastructurelastpartsorting.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\datastructurelastpartsorting.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\datastructurelastpartsorting.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsorting\datastructurelastpartsorting\obj\Debug\net8.0\ref\datastructurelastpartsorting.dll

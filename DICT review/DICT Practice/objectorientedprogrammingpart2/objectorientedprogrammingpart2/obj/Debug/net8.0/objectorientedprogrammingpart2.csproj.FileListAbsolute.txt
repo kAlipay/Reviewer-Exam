@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\bin\Debug\net8.0\objectorientedprogrammingpart2.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\bin\Debug\net8.0\objectorientedprogrammingpart2.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\bin\Debug\net8.0\objectorientedprogrammingpart2.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\bin\Debug\net8.0\objectorientedprogrammingpart2.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\bin\Debug\net8.0\objectorientedprogrammingpart2.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\objectorientedprogrammingpart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\objectorientedprogrammingpart2.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\objectorientedprogrammingpart2.AssemblyInfo.cs
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\objectorientedprogrammingpart2.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\objectorientedprogrammingpart2.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\refint\objectorientedprogrammingpart2.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\objectorientedprogrammingpart2.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\objectorientedprogrammingpart2.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedprogrammingpart2\objectorientedprogrammingpart2\obj\Debug\net8.0\ref\objectorientedprogrammingpart2.dll

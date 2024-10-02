@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\bin\Debug\net8.0\datastructurelastpracticemerging.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\bin\Debug\net8.0\datastructurelastpracticemerging.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\bin\Debug\net8.0\datastructurelastpracticemerging.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\bin\Debug\net8.0\datastructurelastpracticemerging.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\bin\Debug\net8.0\datastructurelastpracticemerging.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\datastructurelastpracticemerging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\datastructurelastpracticemerging.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\datastructurelastpracticemerging.AssemblyInfo.cs
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\datastructurelastpracticemerging.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\datastructurelastpracticemerging.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\refint\datastructurelastpracticemerging.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\datastructurelastpracticemerging.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\datastructurelastpracticemerging.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpracticemerging\datastructurelastpracticemerging\obj\Debug\net8.0\ref\datastructurelastpracticemerging.dll

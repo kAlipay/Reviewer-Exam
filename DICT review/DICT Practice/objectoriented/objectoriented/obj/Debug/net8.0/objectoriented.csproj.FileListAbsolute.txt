@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\bin\Debug\net8.0\objectoriented.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\bin\Debug\net8.0\objectoriented.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\bin\Debug\net8.0\objectoriented.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\bin\Debug\net8.0\objectoriented.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\bin\Debug\net8.0\objectoriented.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\objectoriented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\objectoriented.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\objectoriented.AssemblyInfo.cs
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\objectoriented.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\objectoriented.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\refint\objectoriented.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\objectoriented.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\objectoriented.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectoriented\objectoriented\obj\Debug\net8.0\ref\objectoriented.dll

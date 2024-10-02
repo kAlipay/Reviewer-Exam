@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\bin\Debug\net8.0\datastructurelastpartdeleting.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\bin\Debug\net8.0\datastructurelastpartdeleting.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\bin\Debug\net8.0\datastructurelastpartdeleting.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\bin\Debug\net8.0\datastructurelastpartdeleting.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\bin\Debug\net8.0\datastructurelastpartdeleting.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\datastructurelastpartdeleting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\datastructurelastpartdeleting.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\datastructurelastpartdeleting.AssemblyInfo.cs
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\datastructurelastpartdeleting.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\datastructurelastpartdeleting.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\refint\datastructurelastpartdeleting.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\datastructurelastpartdeleting.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\datastructurelastpartdeleting.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartdeleting\datastructurelastpartdeleting\obj\Debug\net8.0\ref\datastructurelastpartdeleting.dll

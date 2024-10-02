@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\bin\Debug\net8.0\objectorientedinterface.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\bin\Debug\net8.0\objectorientedinterface.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\bin\Debug\net8.0\objectorientedinterface.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\bin\Debug\net8.0\objectorientedinterface.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\bin\Debug\net8.0\objectorientedinterface.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\objectorientedinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\objectorientedinterface.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\objectorientedinterface.AssemblyInfo.cs
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\objectorientedinterface.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\objectorientedinterface.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\refint\objectorientedinterface.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\objectorientedinterface.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\objectorientedinterface.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\objectorientedinterface\objectorientedinterface\obj\Debug\net8.0\ref\objectorientedinterface.dll

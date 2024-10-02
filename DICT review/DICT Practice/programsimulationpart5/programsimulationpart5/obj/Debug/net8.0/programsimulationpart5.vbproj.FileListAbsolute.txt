@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\bin\Debug\net8.0\programsimulationpart5.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\bin\Debug\net8.0\programsimulationpart5.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\bin\Debug\net8.0\programsimulationpart5.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\bin\Debug\net8.0\programsimulationpart5.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\bin\Debug\net8.0\programsimulationpart5.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\programsimulationpart5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\programsimulationpart5.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\programsimulationpart5.AssemblyInfo.vb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\programsimulationpart5.vbproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\programsimulationpart5.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\refint\programsimulationpart5.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\programsimulationpart5.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\programsimulationpart5.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\programsimulationpart5\programsimulationpart5\obj\Debug\net8.0\ref\programsimulationpart5.dll

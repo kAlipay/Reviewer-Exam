@@ -1,0 +1,14 @@
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\bin\Debug\net8.0\datastructurelastpartsearching.exe
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\bin\Debug\net8.0\datastructurelastpartsearching.deps.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\bin\Debug\net8.0\datastructurelastpartsearching.runtimeconfig.json
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\bin\Debug\net8.0\datastructurelastpartsearching.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\bin\Debug\net8.0\datastructurelastpartsearching.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\datastructurelastpartsearching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\datastructurelastpartsearching.AssemblyInfoInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\datastructurelastpartsearching.AssemblyInfo.cs
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\datastructurelastpartsearching.csproj.CoreCompileInputs.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\datastructurelastpartsearching.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\refint\datastructurelastpartsearching.dll
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\datastructurelastpartsearching.pdb
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\datastructurelastpartsearching.genruntimeconfig.cache
+C:\Users\63955\OneDrive - STI Valencia\Desktop\Java\DICT Practice\datastructurelastpartsearching\datastructurelastpartsearching\obj\Debug\net8.0\ref\datastructurelastpartsearching.dll
